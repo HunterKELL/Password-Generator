@@ -1,18 +1,18 @@
 body {
-    background-color: #4B5563;
+    background-color: #2e1701;
     margin: 0;
     padding: 0;
 }
 
 .main-container {
-    background-color: #374151;
+    background-color: #411b02;
     color: white;
     font-family: 'Open Sans', sans-serif;
     width: 500px;
     height: 420px;
     margin: 350px auto;
     padding: 2rem;
-    border: 5px solid #10B981;
+    border: 5px solid #ccf809;
 }
 
 .flex-container {
@@ -27,7 +27,7 @@ h1 {
 }
 
 #text-color-change {
-    color: #10B981;
+    color: #ccf809;
 }
 
 #align-p-element {
@@ -37,8 +37,8 @@ h1 {
 }
 
 #generate-btn {
-    background-color: #10B981;
-    color: white;
+    background-color: #ccf809;
+    color: black;
     width: 200px;
     margin-top: 25px;
     padding: 13px 20px;
@@ -50,8 +50,8 @@ h1 {
 
 #generate-btn:hover {
     background-color: #374151;
-    border: 1px solid #10B981;
-    color: #10B981;
+    border: 1px solid #ccf809;
+    color: #ccf809;
     cursor: pointer;
     transform: scale(0.95);
 }
@@ -71,7 +71,7 @@ h1 {
 
 .password-box {
     background-color: #4B5563;
-    color: #10B981;
+    color: #ccf809;
     font-size: 19px;
     text-align: center;
     width: 210px;
